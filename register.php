@@ -10,7 +10,7 @@ $psw = $_POST['psw'];
 if (!empty($usrnm) || !empty($email) || !empty($psw))
 {
 
-$host = "localhost";
+$host = "github";
 $dbusername = "root";
 $dbpassword = "";
 $dbname = "project";
